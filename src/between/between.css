@@ -1,0 +1,21 @@
+.container {
+  position: relative;
+}
+.inside {
+  width: 70%;
+  margin-left: 150px;
+  background-color: #ce0033;
+  box-shadow: 0px 0px 60px black;
+}
+.text-block {
+  position: absolute;
+  bottom: 40px;
+  right: 197px;
+  background-color: black;
+  opacity: 0.7;
+  padding: 1em 0.9em;
+}
+.btext {
+  color: white;
+  font-size: 20px;
+}

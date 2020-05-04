@@ -1,0 +1,98 @@
+.footer {
+  font-family: "Lato", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-shadow: 0px 0px 25px black;
+}
+.trust {
+  font-size: 35px;
+  text-align: center;
+  padding-top: 30px;
+  font-weight: bold;
+  font-family: "Ubuntu Mono", monospace;
+  color: #ce0033;
+}
+.all {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Lato", sans-serif;
+}
+.contact {
+  display: flex;
+  flex-direction: column;
+  padding-left: 270px;
+  padding-top: 45px;
+  font-weight: bold;
+}
+
+button {
+  font-family: "Lato", sans-serif;
+  margin-top: 15px;
+  color: white;
+  background-color: black;
+  border: none;
+  padding: 8px 12px;
+  margin-left: 231px;
+  margin-bottom: 25px;
+  font-size: 17px;
+  cursor: pointer;
+}
+button:focus {
+  background-color: #ce0033;
+  color: black;
+}
+.note {
+  padding-top: 40px;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  padding-right: 270px;
+}
+input {
+  font-family: "Lato", sans-serif;
+  width: 150px;
+  height: 30px;
+  margin-top: 8px;
+  font-size: 16px;
+}
+.one {
+  margin-right: 15px;
+}
+
+.three {
+  width: 315px;
+}
+p {
+  font-family: "Lato", sans-serif;
+}
+h4 {
+  margin-bottom: -2px;
+  font-size: 18px;
+  color: rgb(95, 95, 95);
+}
+.social {
+  display: flex;
+  justify-content: center;
+}
+.social > i {
+  font-size: 30px;
+  padding-left: 15px;
+  cursor: pointer;
+  padding-bottom: 30px;
+  color: black;
+}
+.social > i:hover {
+  color: #ce0033;
+}
+.copyright {
+  background-color: #333333;
+  height: 50px;
+  text-align: center;
+  padding-top: 1px;
+  color: grey;
+  font-size: 17px;
+}
+.fa-heart {
+  color: #ce0033;
+}
