@@ -1,0 +1,51 @@
+h1, strong {
+    color: #ce0033;
+}
+
+.projects-section {
+    padding: 5rem 0;
+    padding-bottom: 250px;
+  }
+
+.projects-section .featured-text {
+    padding: 2rem;
+  }
+
+.projects-section .featured-text p {
+    width: 1000px;
+    height: 100px;
+  }
+
+.projects-section .project-text {
+    padding: 3rem;
+    font-size: 90%;
+  }
+
+@media (min-width: 992px) {
+    .projects-section .featured-text {
+        padding: 0 0 0 2rem;
+        border-left: 0.5rem solid #000000;
+        }
+      }
+@media (min-width: 992px) {
+    .projects-section .project-text {
+      padding: 5rem;
+    }
+    .projects-section .project-text hr {
+      border-color: #000000;
+      border-width: .25rem;
+      width: 30%;
+    }
+  }
+
+
+/**/
+
+.poem {
+
+  padding: 3rem 25rem;
+
+
+  text-align: center;
+}
+
