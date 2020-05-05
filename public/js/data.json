@@ -1,0 +1,53 @@
+{
+    "team" : [
+        {
+            "id":1,
+            "image" : "/images/Team/team-img1.jpg",
+            "name" : "Frédéric Bardeau",
+            "poste" : "CEO & Founder"
+        },
+        {
+            "id":2,
+            "image": "/images/Team/team-img2.jpg",
+            "name": "Mouna Ayari",
+            "poste": "Country Manager"
+        },
+        {
+            "id":3,
+            "image": "/images/Team/team-img3.jpg",
+            "name": "Syrine Auguste Amy",
+            "poste": "Responsable Communication"
+        },
+        {
+            "id":4,
+            "image": "/images/Team/team-img4.jpg",
+            "name": "Mohamed Seifeddine Hamza",
+            "poste": "Instructeur"
+        }
+    ],
+
+    "social" : [
+        {
+            "id": 1,
+            "icon" : "icon fa fa-facebook fa-lg",
+            "title" : "Follow Me on",
+            "body" : "Social Facebook",
+            "href" : "https://www.facebook.com/SimplonTunis/"
+        },
+        {
+            "id": 2,
+            "icon" : "fa fa-instagram",
+            "title" : "Follow Me on",
+            "body" : "Social Instagram",
+            "href" : "https://www.instagram.com/simplontunis/?fbclid=IwAR0XzQI2olOQNSexnssWwlwGJXRn55jimVRCj5fZjWvdlo5TaTD6YsSSp-c"
+        },
+        {
+            "id": 3,
+            "icon" : "fa fa-linkedin",
+            "title" : "Foolow Me on",
+            "body" : "Social Linkedin",
+            "href" : "https://www.linkedin.com/in/simplon-tunis-735987177/"
+        }
+    ] 
+
+}

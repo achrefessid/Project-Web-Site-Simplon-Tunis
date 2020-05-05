@@ -1,0 +1,29 @@
+.impact {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  font-family: "Lato", sans-serif;
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 150px;
+}
+.num {
+  color: #ce0033;
+  font-weight: bolder;
+}
+.h4 {
+  color: #333;
+  text-align: justify;
+}
+.imp {
+  max-width: 235px;
+}
+.impact-title {
+  text-align: center;
+  padding-top: 200px;
+  font-weight: bolder;
+  text-decoration: underline;
+  text-decoration-color: #ce0033;
+  letter-spacing: 0.1em;
+  font-size: 50px;
+}
